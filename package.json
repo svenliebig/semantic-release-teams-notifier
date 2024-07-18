@@ -14,12 +14,5 @@
   "prettier": {
     "printWidth": 120,
     "trailingComma": "es5"
-  },
-  "xo": {
-    "prettier": true,
-    "space": true,
-    "rules": {
-      "unicorn/string-content": "off"
-    }
   }
 }
