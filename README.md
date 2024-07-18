@@ -1,11 +1,11 @@
-# @semantic-release/teams-notifier
+# semantic-release-teams-notifier
 
 [semantic-release](https://github.com/semantic-release/semantic-release) plugin to send notifications about new versions to teams channels.
 
 ## Install
 
 ```shell
-npm install @semantic-release/teams-notifier -D
+npm install semantic-release-teams-notifier -D
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ The plugin can be configured in the [**semantic-release** configuration file](ht
       }
     ],
     [
-      "@semantic-release/teams-notifier",
+      "semantic-release-teams-notifier",
       {
         "teamsWebhook": ["https://outlook..."]
       }

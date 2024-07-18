@@ -1,9 +1,10 @@
 {
-  "name": "@semantic-release/teams-notifier",
-  "version": "0.4.0",
+  "name": "semantic-release-teams-notifier",
+  "version": "0.4.1",
   "main": "index.js",
   "author": "Sven Liebig",
   "license": "MIT",
+  "private": false,
   "dependencies": {
     "aggregate-error": "^3.0.1",
     "lodash": "^4.17.21",
