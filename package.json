@@ -1,0 +1,25 @@
+{
+  "name": "@semantic-release/teams-notifier",
+  "version": "0.4.0",
+  "main": "index.js",
+  "author": "Sven Liebig",
+  "license": "MIT",
+  "dependencies": {
+    "aggregate-error": "^3.0.1",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.0",
+    "read-pkg": "^5.2.0",
+    "util": "^0.12.3"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "trailingComma": "es5"
+  },
+  "xo": {
+    "prettier": true,
+    "space": true,
+    "rules": {
+      "unicorn/string-content": "off"
+    }
+  }
+}
